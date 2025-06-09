@@ -23,7 +23,7 @@ The analysis is based on anonymized ad performance data from a Facebook marketin
 
 ## 🧪 Code & Notebook
 
-All SQL queries and charts are in [`ad_campaign_analysis.ipynb`](ad_campaign_analysis.ipynb).
+All SQL queries and charts are in [`facebook_ads_SQL_project.ipynb`](facebook_ads_SQL_project.ipynb).
 
 To run it:
 
